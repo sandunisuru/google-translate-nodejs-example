@@ -5,10 +5,15 @@ Create your Project inside the Google Cloud console and get the API Key.
 
 ### Step 2
 Clone the project here.
+
 ### Step 3
 Edit the .env file and add your API key.
 
 ### Step 4
+
+Run the project with `node index.js` or if you have nodemon, `nodemon index.js`
+
+### Step 5
 Test API endpoint `localhost:3000/translate` using this sample JSON request.
 
     {
