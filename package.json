@@ -1,0 +1,17 @@
+{
+  "name": "translateapi",
+  "version": "1.0.0",
+  "description": "This code repo contains simple example for NodeJS to how to use the Google Translate API to get translations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandun Isuru Niraj",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
